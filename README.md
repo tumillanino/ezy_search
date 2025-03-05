@@ -16,7 +16,7 @@ GitHub repository search (CTRL+G) - Search GitHub repositories and insert the se
 
 ```bash
 git clone https://github.com/tumillanino/ezy_search.git ~/.EzySearch
-echo 'source ~/.EzySearch/plugin.zsh' >> ~/.zshrc
+echo 'source ~/.EzySearch/ezy_search.zsh' >> ~/.zshrc
 ```
 Then restart your shell.
 
@@ -31,7 +31,7 @@ git clone https://github.com/tumillanino/ezy_search.git
 ```
 Then add this to .zshrc:
 ```bash
-source ~/.zsh_plugins/EzySearch/plugin.zsh
+source ~/.zsh_plugins/EzySearch/ezy_search.zsh
 ``````
 ## Usage
 
