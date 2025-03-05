@@ -10,6 +10,8 @@ AUR package search (CTRL+P) - Search Arch User Repository (AUR) packages and ins
 
 GitHub repository search (CTRL+G) - Search GitHub repositories and insert the selected URL.
 
+Directory search (CTRL+T) - Search your directory and return the result into your current terminal command.
+
 ## Installation
 
 ## Manual Installation
@@ -46,6 +48,10 @@ When typing a yay -S command, press CTRL+P to search for AUR packages. The selec
 ### GitHub Repository Search (CTRL+G)
 
 When typing a command that requires a GitHub URL (e.g., git clone), press CTRL+G to search for repositories and insert the selected URL automatically.
+
+### Directory Search (CTRL+T)
+
+When typing a command such as cd, press CTRL+T to search through your local directory and insert the selected result automatically into your command.
 
 ## License
 
