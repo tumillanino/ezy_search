@@ -16,8 +16,8 @@ GitHub repository search (CTRL+G) - Search GitHub repositories and insert the se
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/EzySearch.git ~/.EzySearch
-echo 'source ~/.EzySearch/plugin.zsh' >> ~/.zshrc```
-
+echo 'source ~/.EzySearch/plugin.zsh' >> ~/.zshrc
+```
 Then restart your shell.
 
 ## Using Zinit
