@@ -15,19 +15,19 @@ GitHub repository search (CTRL+G) - Search GitHub repositories and insert the se
 ## Manual Installation
 
 ```bash
-git clone https://github.com/tumillanino/EzySearch.git ~/.EzySearch
+git clone https://github.com/tumillanino/ezy_search.git ~/.EzySearch
 echo 'source ~/.EzySearch/plugin.zsh' >> ~/.zshrc
 ```
 Then restart your shell.
 
 ## Using Zinit
 ```bash
-zinit light tumillanino/EzySearch
+zinit light tumillanino/ezy_search
 ```
 ## Using Antidote
 ```bash
 mkdir -p ~/.zsh_plugins && cd ~/.zsh_plugins
-git clone https://github.com/tumillanino/EzySearch.git
+git clone https://github.com/tumillanino/ezy_search.git
 ```
 Then add this to .zshrc:
 ```bash
